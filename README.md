@@ -1,2 +1,2 @@
 # KNN_1
-Anemia_Type_prediction
+heart_attack_prediction
