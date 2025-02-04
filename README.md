@@ -7,5 +7,5 @@ The comments in the code explains the process step by step
 DATA: Data set is taken from kaggle, which is uploaded as "heart_attack.csv"
 link:https://www.kaggle.com/datasets/nareshbhat/health-care-data-set-on-heart-attack-possibility
 
-Prediction gave better results with 0.83516 for random_state=42 (even though in the code 0 is uploaded)
+Prediction gave better results for random_state=42 (even though in the code 0 is uploaded)
 
