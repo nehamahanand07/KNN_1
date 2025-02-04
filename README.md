@@ -1,2 +1,2 @@
 # KNN_1
-Diabetes_prediction
+Anemia_Type_prediction
