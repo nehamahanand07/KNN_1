@@ -24,7 +24,7 @@ TAKE AWAYS:
 
 
 Performance Metrics:
-✔ Accuracy: 83.1%
+✔ Accuracy: 0.8131  / 81.31%
 ✔ Precision: Class 0: 91%, Class 1: 76%
 ✔ Recall: Class 0: 68%, Class 1: 94%
 ✔ F1-Score: Class 0: 78%, Class 1: 84%
