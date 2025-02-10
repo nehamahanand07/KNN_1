@@ -13,7 +13,7 @@ link:https://www.kaggle.com/datasets/nareshbhat/health-care-data-set-on-heart-at
 ✅ Model Evaluation:
 
 Accuracy Score: 81.31%
-Confusion Matrix: Displayed results for TP, TN, FP, and FN (refer file: confusion_matrix and accuracy_score)
+Confusion Matrix: Displayed results for TP, TN, FP, and FN
 Graphical Representation: Used Matplotlib to visualize the confusion matrix
 Classification Report: Analyzed precision, recall, and F1-score
 
